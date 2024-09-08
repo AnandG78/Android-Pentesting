@@ -1,0 +1,2 @@
+recursive-include mobsfscan/rules/patterns *.yaml
+recursive-include mobsfscan/rules/semgrep *.yaml
